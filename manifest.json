@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "PromptAnchor",
+  "version": "1.0",
+  "description": "Quickly navigate long chats by jumping to any message in chatgpt",
+  "permissions": ["activeTab", "scripting"],
+  "content_scripts": [
+    {
+      "matches": ["https://chatgpt.com/*"],
+      "js": ["content.js"],
+      "css": ["styles.css"]
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "128": "icons/fav.png"
+    }
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["icons/fav.png"],
+      "matches": ["https://chatgpt.com/*"]
+    }
+  ]
+}
