@@ -46,6 +46,8 @@ It detects all user messages on [chat.openai.com](https://chat.openai.com) or [c
    - **↻ (Refresh)** → Re-scan for new messages.
    - **⇤ / ⇥ (Collapse / Expand)** → Hide or show the navigator sidebar.
 
+![Extension recording](https://res.cloudinary.com/dh9x227hi/image/upload/v1761642313/ezgif-3cbb738e69e690_esbnkb.gif)
+
 ---
 
 ## ⚠️ Limitations
