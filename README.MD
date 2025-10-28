@@ -3,6 +3,7 @@
 **AnchorGPT** (also known as **GPT Anchor**) is a Chrome Extension that helps you **navigate long ChatGPT conversations** effortlessly.  
 It detects all user messages on [chat.openai.com](https://chat.openai.com) or [chatgpt.com](https://chatgpt.com), anchors them, and provides a floating sidebar to **jump instantly to any message**.
 
+![Extension](https://res.cloudinary.com/dh9x227hi/image/upload/v1761641900/Screenshot_2025-10-28_at_2.23.20_PM_zxfecw.png)
 ---
 
 ## 🚀 Features
