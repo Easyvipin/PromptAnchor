@@ -55,12 +55,4 @@ It detects all user messages on [chat.openai.com](https://chat.openai.com) or [c
 
 ---
 
-## 📄 License
-
-MIT License © 2025  
-Built by [Your Name or Handle]  
-For feedback or contributions, feel free to open a PR or issue.
-
----
-
 > “Anchor your chats. Navigate smarter.” – AnchorGPT
